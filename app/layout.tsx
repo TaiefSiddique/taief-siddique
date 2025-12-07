@@ -6,9 +6,8 @@ import { cn } from '@/lib/utils'
 import { ThemeProvider } from '@/components/theme-provider'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Taief Siddique - Portfolio',
+  description: 'Portfolio website of Md. Abu Taief Siddique, showcasing projects, skills, and experience in full-stack development and AI/ML.',
 }
 
 export default function RootLayout({
